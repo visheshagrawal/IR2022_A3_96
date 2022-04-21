@@ -1,5 +1,6 @@
 # IR2022_A3_96
 We have used the Gnutella peer-to-peer network dataset, it can be described as follows:-
+Gnutella is a peer-to-peer network protocol. Founded in 2000, it was the first decentralized peer-to-peer network of its kind. Nodes represent hosts in the Gnutella network topology and edges represent connections between the Gnutella hosts.
 ![image](https://user-images.githubusercontent.com/43749564/164384760-792bb08e-036b-4a8b-8939-5025183970c7.png)
 
 ## Question 1
