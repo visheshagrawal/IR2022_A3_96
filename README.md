@@ -6,6 +6,23 @@ The network contains all the Wikipedia voting data from the inception of Wikiped
 - ![image](https://user-images.githubusercontent.com/43749564/164522848-6b0a7482-13a1-478b-8dfc-fd70af9aa5d9.png)
 
 ## Question 1
+1. Number of Nodes= 7115
+2. Number of Edges= 103689
+3. Avg In-degree = 14.573295853829936
+4. Avg. Out-Degree = 14.573295853829936
+5. Node with Max In-degree= 4037
+6. Node with Max out-degree = 2565
+7. The density of the network = 0.0020485375110809584
+
+### In-degree 
+![image](https://user-images.githubusercontent.com/48515800/164524203-a16ad147-3246-43f8-b3d6-beb554fd6c69.png)
+
+### Out-Degree Distribution
+![image](https://user-images.githubusercontent.com/48515800/164524518-5a3691d5-63c4-4387-b9c4-44f03873927c.png)
+
+### Local Clustering Coefficient
+![image](https://user-images.githubusercontent.com/48515800/164524641-ed6b3171-2541-4aa2-bcc7-e9fc78c311a1.png)
+
 ## Question 2
 We have used the "NetworkX" python library to calculate the page rank, Hub and Authority scores on the Wiki-Vote network dataset.
 
