@@ -1,6 +1,7 @@
 # IR2022_A3_96
 We have used the Wiki-Vote.txt network dataset, it can be described as follows:-
 The network contains all the Wikipedia voting data from the inception of Wikipedia till January 2008. Nodes in the network represent wikipedia users and a directed edge from node i to node j represents that user i voted on user j.
+
 ![image](https://user-images.githubusercontent.com/43749564/164520339-fda64802-f4d7-42f8-aed8-638c60ec4b7e.png)
 - Network Graph
 - ![image](https://user-images.githubusercontent.com/43749564/164522848-6b0a7482-13a1-478b-8dfc-fd70af9aa5d9.png)
