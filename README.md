@@ -5,7 +5,7 @@ The network contains all the Wikipedia voting data from the inception of Wikiped
 ![image](https://user-images.githubusercontent.com/43749564/164520339-fda64802-f4d7-42f8-aed8-638c60ec4b7e.png)
 - Network Graph
 - ![image](https://user-images.githubusercontent.com/43749564/164522848-6b0a7482-13a1-478b-8dfc-fd70af9aa5d9.png)
-
+- Link to the Dataset- https://snap.stanford.edu/data/wiki-Vote.html
 ## Question 1
 1. Number of Nodes= 7115
 2. Number of Edges= 103689
