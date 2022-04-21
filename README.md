@@ -24,6 +24,18 @@ The network contains all the Wikipedia voting data from the inception of Wikiped
 ### Local Clustering Coefficient
 ![image](https://user-images.githubusercontent.com/48515800/164524641-ed6b3171-2541-4aa2-bcc7-e9fc78c311a1.png)
 
+### Formulas
+
+1. Number of Nodes= len(node_set)
+2. Number of Edges= total number of directed edges. len(edge_set)
+3. Avg In-degree = In degree is the number of nodes where edge directs towards the node. Average in-degree is total in-degree divided by number of nodes
+4. Avg. Out-Degree = Out degree is the number of nodes where edge directs away the node. Average out-degree is total out-degree divided by number of nodes
+5. Node with Max In-degree= max(in_degree from in_degree list)
+6. Node with Max out-degree = max(out_degree from in_degree list)
+7. The density of the network = No. of Observed Edges/(Total number of possible edges)= m/n*(n-1)
+8. Local Clustering Coefficient= ![image](https://user-images.githubusercontent.com/48515800/164527510-fe076161-349f-4bb3-9108-7169d4c8e101.png) Here vk and vk are vertices which are in the neighbourhood of node. And there is an edge between them. ki is the number of neighbours. So essentially this formula is number of connected neighbours divided by total possible neighbour edges.
+
+
 ## Question 2
 We have used the "NetworkX" python library to calculate the page rank, Hub and Authority scores on the Wiki-Vote network dataset.
 
